@@ -1,0 +1,63 @@
+/* stylelint-disable hhru/less-variable-value-disallowed-list */
+/* Design System colors */
+/* Red */
+/* Yellow */
+/* Orange */
+/* Blue */
+/* Violet */
+/* Green */
+/* Grayscale */
+/* Special */
+.resume-experience-card--UbLDiMQX2DkejWpO9ZZq {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.resume-experience-card__item--kusMCj5m1rBv7PPzZiJ7:not(:last-child) {
+  margin-bottom: 5px;
+}
+.resume-experience-card-tile--O75qBFhW5PI1XgDpeEgo {
+  position: relative;
+  border: 1px solid #d4d7d9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  line-height: 1.4;
+}
+.resume-experience-card-tile_error--ZmN3oBNmOTJKOMSc00fj {
+  border-color: #e53e3e;
+}
+.resume-experience-card-tile_error--ZmN3oBNmOTJKOMSc00fj:hover {
+  border-color: #d92121;
+}
+.resume-experience-card-tile--O75qBFhW5PI1XgDpeEgo:hover {
+  border-color: #1785e5;
+}
+.resume-experience-card-wrapper--FjpACMtNgqhPBjJ8i0Ge {
+  padding: 10px 15px 20px;
+  cursor: pointer;
+  overflow-wrap: break-word;
+}
+.resume-experience-card-head--D1JvJThRjopS3M08KCzk {
+  display: inline-block;
+  padding-right: 25px;
+  margin-bottom: 15px;
+}
+.resume-experience-card-period--MUrnp2YiwU0nchifSKfr {
+  color: #1785e5;
+}
+.resume-experience-card-error--i4P3O6R4SiE8NMlKl8e1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #e53e3e;
+}
+.resume-experience-card-close--LUfRwvx9dJLJ6YlVSjO_ {
+  position: absolute;
+  top: 9px;
+  right: 9px;
+  cursor: pointer;
+  box-sizing: border-box;
+  z-index: 10;
+}
+
+
+/*# sourceMappingURL=82621.99a441452523f432b65b.css.map*/
